@@ -348,6 +348,89 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4178"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3697-5"
+       x="-0.11748252"
+       width="1.234965"
+       y="-0.11748252"
+       height="1.234965">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.76923078"
+         id="feGaussianBlur3699-0" />
+    </filter>
+    <inkscape:perspective
+       id="perspective4763"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4562-5-4-5-5">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.2264715"
+         id="feGaussianBlur4564-3-1-5-1" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4558-4-4-3-2">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.2264715"
+         id="feGaussianBlur4560-8-9-9-6" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4554-2-6-5-0">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.2264715"
+         id="feGaussianBlur4556-1-6-4-0" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4550-7-5-4-9">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.2264715"
+         id="feGaussianBlur4552-2-9-1-3" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4630-6-7-2-2"
+       x="-0.50349653"
+       width="2.0069931"
+       y="-0.50349653"
+       height="2.0069931">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.192807"
+         id="feGaussianBlur4632-2-9-1-8" />
+    </filter>
+    <inkscape:perspective
+       id="perspective4830"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -357,8 +440,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="450.9188"
-     inkscape:cy="555.81179"
+     inkscape:cx="122.05208"
+     inkscape:cy="513.84018"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -402,6 +485,14 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#241f1c;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:11.3176527;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4753-2"
+       width="438.68234"
+       height="264.39664"
+       x="-530.1983"
+       y="654.73529"
+       ry="1.5808406" />
     <rect
        style="fill:#cfcfcf;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3826"
@@ -812,8 +903,8 @@
        id="text4863"><tspan
          sodipodi:role="line"
          x="240"
-         y="1009.5051"
-         id="tspan4873">V 0.2 maquette</tspan></text>
+         y="959.50507"
+         id="tspan4873">V 0.3 maquette</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 34.285714,622.36218 40,-80 188.571426,80"
@@ -950,5 +1041,157 @@
          x="45.517086"
          y="261.49432"
          style="font-size:13px">Galaxie</tspan></text>
+    <rect
+       style="fill:#241f1c;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:11.3176527;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4753"
+       width="438.68234"
+       height="264.39664"
+       x="-528.62689"
+       y="343.73529"
+       ry="1.5808406" />
+    <g
+       id="g4744"
+       inkscape:export-filename="/home/jc/Documents/qf-astro/Ressources/Illustrations/SystemeSolaire.png"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299">
+      <path
+         transform="matrix(2.9927555,0,0,2.9927555,-763.92886,84.5342)"
+         d="m 155.71429,127.36218 a 7.8571429,7.8571429 0 1 1 -15.71429,0 7.8571429,7.8571429 0 1 1 15.71429,0 z"
+         sodipodi:ry="7.8571429"
+         sodipodi:rx="7.8571429"
+         sodipodi:cy="127.36218"
+         sodipodi:cx="147.85715"
+         id="path2816-3"
+         style="fill:#e2e2e2;fill-opacity:1;stroke:none;filter:url(#filter3697-5)"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.1285649,0,0,1.1285649,-558.50056,337.82428)"
+         d="m 155.71429,127.36218 a 7.8571429,7.8571429 0 1 1 -15.71429,0 7.8571429,7.8571429 0 1 1 15.71429,0 z"
+         sodipodi:ry="7.8571429"
+         sodipodi:rx="7.8571429"
+         sodipodi:cy="127.36218"
+         sodipodi:cx="147.85715"
+         id="path2816-7-82"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.1285649,0,0,1.1285649,-527.69091,373.68471)"
+         d="m 155.71429,127.36218 a 7.8571429,7.8571429 0 1 1 -15.71429,0 7.8571429,7.8571429 0 1 1 15.71429,0 z"
+         sodipodi:ry="7.8571429"
+         sodipodi:rx="7.8571429"
+         sodipodi:cy="127.36218"
+         sodipodi:cx="147.85715"
+         id="path2816-7-9-0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.4499771,0,0,1.4499771,-634.30792,351.43677)"
+         d="m 155.71429,127.36218 a 7.8571429,7.8571429 0 1 1 -15.71429,0 7.8571429,7.8571429 0 1 1 15.71429,0 z"
+         sodipodi:ry="7.8571429"
+         sodipodi:rx="7.8571429"
+         sodipodi:cy="127.36218"
+         sodipodi:cx="147.85715"
+         id="path2816-7-8-6"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         transform="translate(-487.09359,322.67852)"
+         d="m 247.48738,145.24519 a 81.822357,27.274118 0 1 1 -163.644713,0 81.822357,27.274118 0 1 1 163.644713,0 z"
+         sodipodi:ry="27.274118"
+         sodipodi:rx="81.822357"
+         sodipodi:cy="145.24519"
+         sodipodi:cx="165.66502"
+         id="path3652-15"
+         style="fill:none;stroke:#ffffff;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         d="m 247.48738,145.24519 a 81.822357,27.274118 0 1 1 -163.644713,0 81.822357,27.274118 0 1 1 163.644713,0 z"
+         sodipodi:ry="27.274118"
+         sodipodi:rx="81.822357"
+         sodipodi:cy="145.24519"
+         sodipodi:cx="165.66502"
+         id="path3652-7-2"
+         style="fill:none;stroke:#ffffff;stroke-opacity:1"
+         sodipodi:type="arc"
+         transform="matrix(1.5204,0,0,1.5204,-573.30567,256.49581)" />
+      <path
+         d="m 247.48738,145.24519 a 81.822357,27.274118 0 1 1 -163.644713,0 81.822357,27.274118 0 1 1 163.644713,0 z"
+         sodipodi:ry="27.274118"
+         sodipodi:rx="81.822357"
+         sodipodi:cy="145.24519"
+         sodipodi:cx="165.66502"
+         id="path3652-1-3"
+         style="fill:none;stroke:#ffffff;stroke-opacity:1"
+         sodipodi:type="arc"
+         transform="matrix(2.1043626,0,0,2.1043626,-670.04785,183.85649)" />
+    </g>
+    <g
+       id="g4849"
+       inkscape:export-filename="/home/jc/Documents/qf-astro/Ressources/Illustrations/Galaxie.png"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299">
+      <path
+         transform="matrix(1.2635129,-0.66478606,0.2648054,0.50329733,-178.33923,484.02188)"
+         d="m -194.28572,336.64789 c 13.53738,-14.182 25.79591,11.25122 23.57141,22.50001 -6.02826,30.48354 -44.75993,36.26214 -68.57144,24.64281 -42.59321,-20.78424 -48.83794,-77.18336 -25.71421,-114.64287 33.935,-54.97334 110.04223,-61.77425 160.7143,-26.7856"
+         sodipodi:t0="0"
+         sodipodi:argument="-19.658205"
+         sodipodi:radius="130.34491"
+         sodipodi:revolution="1"
+         sodipodi:expansion="1"
+         sodipodi:cy="336.64789"
+         sodipodi:cx="-194.28572"
+         id="path4382-3-7-5-8"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8, 4, 2, 4;stroke-dashoffset:0;filter:url(#filter4562-5-4-5-5)"
+         sodipodi:type="spiral" />
+      <path
+         transform="matrix(-0.40242825,0.7682613,-1.226637,0.32407295,14.254651,820.82162)"
+         d="m -194.28572,336.64789 c 13.53738,-14.182 25.79591,11.25122 23.57141,22.50001 -6.02826,30.48354 -44.75993,36.26214 -68.57144,24.64281 -42.59321,-20.78424 -48.83794,-77.18336 -25.71421,-114.64287 33.935,-54.97334 110.04223,-61.77425 160.7143,-26.7856"
+         sodipodi:t0="0"
+         sodipodi:argument="-19.658205"
+         sodipodi:radius="130.34491"
+         sodipodi:revolution="1"
+         sodipodi:expansion="1"
+         sodipodi:cy="336.64789"
+         sodipodi:cx="-194.28572"
+         id="path4382-6-5-8-2-9"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8.00000003000000071, 4.00000000999999994, 2.00000000999999994, 4.00000000999999994;stroke-dashoffset:0;filter:url(#filter4558-4-4-3-2)"
+         sodipodi:type="spiral" />
+      <path
+         transform="matrix(-1.2889964,0.51187109,0.07123882,-0.65820718,-608.15472,1107.7394)"
+         d="m -194.28572,336.64789 c 13.53738,-14.182 25.79591,11.25122 23.57141,22.50001 -6.02826,30.48354 -44.75993,36.26214 -68.57144,24.64281 -42.59321,-20.78424 -48.83794,-77.18336 -25.71421,-114.64287 33.935,-54.97334 110.04223,-61.77425 160.7143,-26.7856"
+         sodipodi:t0="0"
+         sodipodi:argument="-19.658205"
+         sodipodi:radius="130.34491"
+         sodipodi:revolution="1"
+         sodipodi:expansion="1"
+         sodipodi:cy="336.64789"
+         sodipodi:cx="-194.28572"
+         id="path4382-4-4-3-2-0"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8.00000005999999786, 4.00000002999999982, 2.00000000999999994, 4.00000002999999982;stroke-dashoffset:0;filter:url(#filter4554-2-6-5-0)"
+         sodipodi:type="spiral" />
+      <path
+         transform="matrix(0.40242825,-0.7682613,1.226637,-0.32407295,-676.56741,743.20038)"
+         d="m -194.28572,336.64789 c 13.53738,-14.182 25.79591,11.25122 23.57141,22.50001 -6.02826,30.48354 -44.75993,36.26214 -68.57144,24.64281 -42.59321,-20.78424 -48.83794,-77.18336 -25.71421,-114.64287 33.935,-54.97334 110.04223,-61.77425 160.7143,-26.7856"
+         sodipodi:t0="0"
+         sodipodi:argument="-19.658205"
+         sodipodi:radius="130.34491"
+         sodipodi:revolution="1"
+         sodipodi:expansion="1"
+         sodipodi:cy="336.64789"
+         sodipodi:cx="-194.28572"
+         id="path4382-5-8-6-3-9"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8.00000003000000071, 4.00000000999999994, 2.00000000999999994, 4.00000000999999994;stroke-dashoffset:0;filter:url(#filter4550-7-5-4-9)"
+         sodipodi:type="spiral" />
+      <path
+         transform="matrix(1.2635129,-0.66478606,0.2648054,0.50329733,-129.1811,438.75034)"
+         d="m -218.57142,373.79074 a 17.142857,17.142857 0 1 1 -34.28572,0 17.142857,17.142857 0 1 1 34.28572,0 z"
+         sodipodi:ry="17.142857"
+         sodipodi:rx="17.142857"
+         sodipodi:cy="373.79074"
+         sodipodi:cx="-235.71428"
+         id="path4468-1-2-7-6"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4630-6-7-2-2)"
+         sodipodi:type="arc" />
+    </g>
   </g>
 </svg>
