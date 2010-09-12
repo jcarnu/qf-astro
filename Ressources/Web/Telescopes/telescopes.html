@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+<link rel="stylesheet" href="./scalebar-thin.css" type="text/css" /> 
+<style>
+	#mapdiv{
+		width:80%;
+	}
+</style>
+</head>
+<body>
+  <div id="mapdiv"></div>
+  <script src="http://www.openlayers.org/api/OpenLayers.js"></script>
+	<script src="./ScaleBar.js"></script> 
+  <script>
+    map = new OpenLayers.Map({div:"mapdiv",projection: new OpenLayers.Projection("EPSG:900913"),
+                displayProjection: new OpenLayers.Projection("EPSG:4326"),
+        units: "m"});
+
+ /*
+    var pois = new OpenLayers.Layer.Text( "My Points",
+                    { location:"./textfile.txt",
+                      projection: map.displayProjection
+                    });
+    map.addLayer(pois);
+*/
+    var l1 = new OpenLayers.Layer.GML("KML", "./neutrinos.kml", 
+               {
+                format: OpenLayers.Format.KML, 
+		//projection: new OpenLayers.Projection("EPSG:4326"),
+		projection: map.displayProjection,
+                formatOptions: {
+                  extractStyles: true, 
+                  extractAttributes: true,
+                  maxDepth: 2
+		
+                }
+               });
+	/*
+ 	map.addLayer(new OpenLayers.Layer.GML("Telescopes2", "http://localhost/telescopes.kml", 
+               {
+                format: OpenLayers.Format.KML,
+		strategies: [new OpenLayers.Strategy.Fixed()],
+		//projection: new OpenLayers.Projection("EPSG:4326"),
+		projection: map.displayProjection,
+                formatOptions: {
+                  extractStyles: true, 
+                  extractAttributes: true,
+                  maxDepth: 2
+		
+                }
+               }));*/
+
+	var l2 = new OpenLayers.Layer.Vector("KML", {
+		'sphericalMercator':true,
+                projection: map.displayProjection,
+                strategies: [new OpenLayers.Strategy.Fixed()],
+                protocol: new OpenLayers.Protocol.HTTP({
+                    url: "telescopes.kml",
+                    format: new OpenLayers.Format.KML({
+                        extractStyles: true,
+                        extractAttributes: true
+                    })
+                })
+            });
+
+	 select = new OpenLayers.Control.SelectFeature(l2);
+	 select2 = new OpenLayers.Control.SelectFeature(l1);
+            
+            l2.events.on({
+                "featureselected": onFeatureSelect,
+                "featureunselected": onFeatureUnselect
+            });
+  
+            l1.events.on({
+                "featureselected": onFeatureSelect,
+                "featureunselected": onFeatureUnselect
+            });
+            map.addControl(select);
+            map.addControl(select2);
+            select.activate();   
+            select2.activate();   
+
+	scalebar = new OpenLayers.Control.ScaleBar();
+            map.addControl(scalebar);
+
+	var osm = new OpenLayers.Layer.OSM();     
+    map.addLayers([l1,l2,osm]);
+    //Set start centrepoint and zoom    
+    var lonLat = new OpenLayers.LonLat( 6.035, 43.1773 )
+          .transform(
+            new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+            map.getProjectionObject() // to Spherical Mercator Projection
+          );
+    var zoom=7;
+    map.setCenter (lonLat, zoom);  
+
+
+       function onPopupClose(evt) {
+            select.unselectAll();
+            select2.unselectAll();
+        }
+        function onFeatureSelect(event) {
+            var feature = event.feature;
+            var selectedFeature = feature;
+            var popup = new OpenLayers.Popup.FramedCloud("chicken", 
+                feature.geometry.getBounds().getCenterLonLat(),
+                new OpenLayers.Size(100,100),
+                "<h2>"+feature.attributes.name + "</h2>" ,
+                null, true, onPopupClose
+            );
+            feature.popup = popup;
+            map.addPopup(popup);
+        }
+        function onFeatureUnselect(event) {
+            var feature = event.feature;
+            if(feature.popup) {
+                map.removePopup(feature.popup);
+                feature.popup.destroy();
+                delete feature.popup;
+            }
+        }
+ 
+  </script>
+</body></html>

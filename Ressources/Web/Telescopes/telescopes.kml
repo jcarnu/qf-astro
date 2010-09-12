@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name> Téléscopes par continents.kmz</name>
+	<StyleMap id="msn_grn-stars">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-stars</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-stars</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-stars">
+		<IconStyle>
+			<scale>1,1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-stars">
+		<IconStyle>
+			<scale>1,3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+
+	<Style id="sh_ylw-stars">
+		<IconStyle>
+			<scale>1,3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-stars">
+		<IconStyle>
+			<scale>1,1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-stars">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-stars</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-stars</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1,1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1,1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1,1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1,3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1,1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1,1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1,3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1,3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1,3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1,1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1,1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<scale>1,1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1,3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1,3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin7">
+		<IconStyle>
+			<scale>1,1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1,3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1,3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1,3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<scale>1,3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<scale>1,3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1,3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8">
+		<IconStyle>
+			<scale>1,1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin11">
+		<IconStyle>
+			<scale>1,3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin12">
+		<IconStyle>
+			<scale>1,3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin9">
+		<IconStyle>
+			<scale>1,1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1,1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin11">
+		<IconStyle>
+			<scale>1,1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin12">
+		<IconStyle>
+			<scale>1,1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin13">
+		<IconStyle>
+			<scale>1,3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin13">
+		<IconStyle>
+			<scale>1,1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name> Téléscopes par continents</name>
+		<open>1</open>
+		<description>Ne pas oublier de cocher la case batiments 3D</description>
+		<Placemark id="ComplexePatrickPépiQF">
+			<name>Complexe Patrick Pépi / QF</name>
+			<!--
+			<LookAt>
+				<longitude>1,532823596904519</longitude>
+				<latitude>43,58678027033992</latitude>
+				<altitude>0</altitude>
+				<heading>10,62243178310809</heading>
+				<tilt>79,18783289614724</tilt>
+				<range>335,7479039329691</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt> -->
+			<styleUrl>#msn_ylw-stars</styleUrl>
+			<Point>
+				<coordinates>1.532756507077159,43.58556249280545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+		<name>ADAGIO</name>
+		<LookAt>
+			<longitude>1,815868971721286</longitude>
+			<latitude>43,44443648717668</latitude>
+			<altitude>0</altitude>
+			<heading>-0,004711587440022773</heading>
+			<tilt>0</tilt>
+			<range>230,3222802410092</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_ylw-stars</styleUrl>
+		<Point>
+			<coordinates>1.816280418769451,43.44429105535112,0</coordinates>
+		</Point>
+	</Placemark>
+
+		<Folder>
+			<name>Europe</name>
+			<open>1</open>
+			<Placemark id="ObservatoireduPicduMidideBigorre">
+				<name>Observatoire du Pic du Midi de Bigorre</name>
+				<LookAt>
+					<longitude>0,1846639096187861</longitude>
+					<latitude>42,94363686649445</latitude>
+					<altitude>0</altitude>
+					<heading>67,96161851956026</heading>
+					<tilt>82,6037370930045</tilt>
+					<range>5474,413862809795</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-stars</styleUrl>
+				<Point>
+					<coordinates>0.1422061672061118,42.93648340675976,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="PlateaudeBure">
+				<name>Plateau de Bure</name>
+				<LookAt>
+					<longitude>5,906919934610939</longitude>
+					<latitude>44,63571066062657</latitude>
+					<altitude>0</altitude>
+					<heading>-151,4990779508809</heading>
+					<tilt>65,07757024548903</tilt>
+					<range>993,9177416486597</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<gx:balloonVisibility>1</gx:balloonVisibility>
+				<Point>
+					<coordinates>5.906997200081519,44.63418579985615,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Afrique</name>
+			<open>1</open>
+			<Placemark id="GTC">
+				<name>GTC</name>
+				<LookAt>
+					<longitude>-17,89393554129876</longitude>
+					<latitude>28,75588213374141</latitude>
+					<altitude>0</altitude>
+					<heading>-138,4930886650175</heading>
+					<tilt>66,21240268868195</tilt>
+					<range>764,7374965937455</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-stars</styleUrl>
+				<Point>
+					<coordinates>-17.8919140938718,28.75672288383047,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="SALT">
+				<name>SALT</name>
+				<LookAt>
+					<longitude>20,81027094963551</longitude>
+					<latitude>-32,37902639599201</latitude>
+					<altitude>0</altitude>
+					<heading>31,43402330936785</heading>
+					<tilt>59,24512044693385</tilt>
+					<range>537,850976470953</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-stars</styleUrl>
+				<Point>
+					<coordinates>20.81084275576515,-32.38002600746746,0</coordinates>
+				</Point>
+			</Placemark>
+			<Folder>
+				<name>Amérique du Sud</name>
+				<open>1</open>
+				<Placemark id="LaSilla">
+					<name>LaSilla</name>
+					<LookAt>
+						<longitude>-70,73174779649823</longitude>
+						<latitude>-29,26132789473792</latitude>
+						<altitude>0</altitude>
+						<heading>-11,74276948992482</heading>
+						<tilt>71,84583541915457</tilt>
+						<range>863,0937958598815</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-stars</styleUrl>
+					<Point>
+						<coordinates>-70.73428665183414,-29.25866328403357,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="Arecibo">
+					<name>Arecibo</name>
+					<LookAt>
+						<longitude>-66,75360276241182</longitude>
+						<latitude>18,34542844242515</latitude>
+						<altitude>0</altitude>
+						<heading>-70,00603829383654</heading>
+						<tilt>65,83092922667761</tilt>
+						<range>988,461001045479</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-stars</styleUrl>
+					<Point>
+						<coordinates>-66.75269507853315,18.34412471111008,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="VLT">
+					<name>VLT</name>
+					<LookAt>
+						<longitude>-70,43635335477563</longitude>
+						<latitude>-24,6154161262444</latitude>
+						<altitude>0</altitude>
+						<heading>-65,76450990807071</heading>
+						<tilt>78,83973241689185</tilt>
+						<range>4278,610206502333</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-stars</styleUrl>
+					<Point>
+						<coordinates>-70.40424462273168,-24.62751945665137,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>USA</name>
+			<open>1</open>
+			<Placemark id="LBT">
+				<name>LBT</name>
+				<LookAt>
+					<longitude>-109,8933269300877</longitude>
+					<latitude>32,70106322907679</latitude>
+					<altitude>0</altitude>
+					<heading>-125,2487843095736</heading>
+					<tilt>74,12153525747763</tilt>
+					<range>753,9474983022002</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-stars</styleUrl>
+				<Point>
+					<coordinates>-109.8894199577903,32.70153045205127,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="MMTMontHopkins">
+				<name>MMT (Mont Hopkins)</name>
+				<LookAt>
+					<longitude>-110,865267769766</longitude>
+					<latitude>31,68186487223491</latitude>
+					<altitude>0</altitude>
+					<heading>106,6432808093706</heading>
+					<tilt>69,79714195884138</tilt>
+					<range>3111,337087886084</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-stars</styleUrl>
+				<Point>
+					<coordinates>-110.885000000153,31.6883300002425,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="SLOANDSS">
+				<name>SLOAN DSS</name>
+				<LookAt>
+					<longitude>-105,8444799970648</longitude>
+					<latitude>32,78496802657072</latitude>
+					<altitude>0</altitude>
+					<heading>-75,7616611744521</heading>
+					<tilt>78,45374313732729</tilt>
+					<range>2675,054477539756</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-stars</styleUrl>
+				<Point>
+					<coordinates>-105.8202777777142,32.78027777780456,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Kittpeak">
+				<name>Kitt peak</name>
+				<LookAt>
+					<longitude>-111,6044763567171</longitude>
+					<latitude>31,96027973548572</latitude>
+					<altitude>0</altitude>
+					<heading>-133,296384888218</heading>
+					<tilt>70,16335302001914</tilt>
+					<range>718,6631187185613</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-stars</styleUrl>
+				<Point>
+					<coordinates>-111.6002717451773,31.96342552970045,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="VLA">
+				<name>VLA</name>
+				<LookAt>
+					<longitude>-107,6180672329985</longitude>
+					<latitude>34,07650755631077</latitude>
+					<altitude>0</altitude>
+					<heading>123,1063631774758</heading>
+					<tilt>67,11205793839493</tilt>
+					<range>1459,36047913815</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<coordinates>-107.6177280007102,34.0787490006165,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="MaunaKeaKecks">
+				<name>Mauna Kea, Kecks</name>
+				<LookAt>
+					<longitude>-155,3831121781272</longitude>
+					<latitude>19,65509386230186</latitude>
+					<altitude>0</altitude>
+					<heading>153,4793590529698</heading>
+					<tilt>83,3220842715522</tilt>
+					<range>22370,55507598523</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-stars</styleUrl>
+				<Point>
+					<coordinates>-155.4701269291474,19.82471292133832,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Placemark id="ConcordiaDomeC">
+			<name>Concordia / Dome C</name>
+			<LookAt>
+				<longitude>123,3340865591025</longitude>
+				<latitude>-75,09999999865668</latitude>
+				<altitude>0</altitude>
+				<heading>-0,000728221255406465</heading>
+				<tilt>0</tilt>
+				<range>544,0121056192257</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-stars</styleUrl>
+			<Point>
+				<coordinates>123.331515209709,-75.09992690594402,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Placemark>
+		<name>ALMA</name>
+		<LookAt>
+			<longitude>-67,7549484662441</longitude>
+			<latitude>-23,02237401062465</latitude>
+			<altitude>0</altitude>
+			<heading>8,090013818394519e-06</heading>
+			<tilt>0</tilt>
+			<range>1000,220878014777</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_grn-stars</styleUrl>
+		<Point>
+			<coordinates>-67.75462772796844,-23.02279616539621,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
