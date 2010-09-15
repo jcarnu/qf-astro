@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2841"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="neutrinos.svg">
+  <defs
+     id="defs2843">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2849" />
+    <inkscape:perspective
+       id="perspective2861"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3665"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-195"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2846">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3746"
+       width="948.57141"
+       height="717.14288"
+       x="-88.571426"
+       y="103.79076"
+       inkscape:export-filename="/home/jc/Documents/qf-astro/Ressources/Illustrations/neutrinos.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <g
+       id="g3703"
+       transform="matrix(0.54352939,0,0,0.54352939,236.48257,196.73516)"
+       inkscape:export-filename="/home/jc/Documents/qf-astro/Ressources/Illustrations/neutrinos.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <path
+         d="m 728.57141,582.36218 c 0,138.07119 -122.80189,250 -274.2857,250 -151.48382,0 -274.28571,-111.92881 -274.28571,-250 0,-138.07118 122.80189,-250 274.28571,-250 151.48381,0 274.2857,111.92882 274.2857,250 z"
+         sodipodi:ry="250"
+         sodipodi:rx="274.28571"
+         sodipodi:cy="582.36218"
+         sodipodi:cx="454.28571"
+         id="path2851-4"
+         style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="matrix(1.7122581,0,0,1.7122581,-405.80714,-470.97327)" />
+      <path
+         transform="translate(-82.238464,-56.181091)"
+         d="m 728.57141,582.36218 c 0,138.07119 -122.80189,250 -274.2857,250 -151.48382,0 -274.28571,-111.92881 -274.28571,-250 0,-138.07118 122.80189,-250 274.28571,-250 151.48381,0 274.2857,111.92882 274.2857,250 z"
+         sodipodi:ry="250"
+         sodipodi:rx="274.28571"
+         sodipodi:cy="582.36218"
+         sodipodi:cx="454.28571"
+         id="path2851"
+         style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         id="path2875"
+         d="M -440,15.219325 -17.142857,289.50504"
+         style="fill:#ff2a2a;stroke:#ff0000;stroke-width:11.69999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         id="text3649"
+         y="112.36218"
+         x="-285.71429"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="112.36218"
+           x="-285.71429"
+           id="tspan3651"
+           sodipodi:role="line">Neutrino</tspan></text>
+      <path
+         sodipodi:nodetypes="ccc"
+         id="path3653"
+         d="M 282.85714,298.07647 -14.285714,289.50504 114.28571,435.21933"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3655"
+         d="m 128.57143,398.07647 -142.857144,-100 L 880,915.21933"
+         style="fill:#00ff00;stroke:#009b00;stroke-width:7.4000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="ccc"
+         id="path3653-0"
+         d="M 460.04963,68.282573 -22.076503,291.09773 185.22215,334.00533"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         id="text3679"
+         y="492.36221"
+         x="462.85715"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+           y="492.36221"
+           x="469.22433"
+           id="tspan3681"
+           sodipodi:role="line">Neutrino </tspan><tspan
+           id="tspan3683"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+           y="542.36218"
+           x="462.85715"
+           sodipodi:role="line">muonique</tspan></text>
+      <rect
+         y="698.07648"
+         x="608.57141"
+         height="120"
+         width="94.285713"
+         id="rect3685"
+         style="fill:#3771c8;fill-opacity:1;stroke:#000000;stroke-width:7.4000001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         id="text3687"
+         y="683.79077"
+         x="805.71429"
+         style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="683.79077"
+           x="805.71429"
+           id="tspan3689"
+           sodipodi:role="line">Observatoire à</tspan><tspan
+           id="tspan3691"
+           y="733.79077"
+           x="805.71429"
+           sodipodi:role="line">neutrinos</tspan></text>
+      <text
+         id="text3693"
+         y="172.36218"
+         x="194.28571"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="172.36218"
+           x="194.28571"
+           id="tspan3695"
+           sodipodi:role="line">Muons</tspan></text>
+      <text
+         id="text3697"
+         y="729.50507"
+         x="268.57144"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;fill-opacity:1"
+           y="729.50507"
+           x="268.57144"
+           id="tspan3699"
+           sodipodi:role="line">Terre</tspan></text>
+      <path
+         transform="matrix(0.71460538,0,0,0.71460538,1132.1396,512.55112)"
+         d="m -634.28569,392.36219 -27.93005,-13.72133 -27.13728,15.22929 4.4189,-30.80318 -22.86979,-21.10298 30.66108,-5.31609 13.00297,-28.27164 14.53069,27.51766 30.90607,3.63014 -21.68062,22.32294 6.09803,30.51519 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.5434192"
+         sodipodi:arg1="0.9151007"
+         sodipodi:r2="23.430313"
+         sodipodi:r1="46.860626"
+         sodipodi:cy="355.21933"
+         sodipodi:cx="-662.85712"
+         sodipodi:sides="5"
+         id="path3701"
+         style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="star" />
+    </g>
+  </g>
+</svg>
