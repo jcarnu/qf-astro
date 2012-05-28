@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="524.40942"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="2012-general.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3831">
+      <stop
+         style="stop-color:#fff842;stop-opacity:1;"
+         offset="0"
+         id="stop3833" />
+      <stop
+         style="stop-color:#ffe680;stop-opacity:0;"
+         offset="1"
+         id="stop3835" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3823">
+      <stop
+         style="stop-color:#050246;stop-opacity:1;"
+         offset="0"
+         id="stop3825" />
+      <stop
+         style="stop-color:#ffe680;stop-opacity:0;"
+         offset="1"
+         id="stop3827" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3823"
+       id="linearGradient3829"
+       x1="209.71428"
+       y1="0.16591308"
+       x2="209.71428"
+       y2="238.79277"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3831"
+       id="radialGradient3837"
+       cx="380.49118"
+       cy="76.039146"
+       fx="380.49118"
+       fy="76.039146"
+       r="28.968508"
+       gradientTransform="matrix(1,0,0,0.96887203,0,2.3669441)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3831"
+       id="radialGradient3853"
+       cx="435.27863"
+       cy="207.92207"
+       fx="435.27863"
+       fy="207.92207"
+       r="86.107826"
+       gradientTransform="matrix(1,0,0,0.9625918,0,7.7779902)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3831"
+       id="radialGradient3869"
+       cx="410.51035"
+       cy="120.72294"
+       fx="410.51035"
+       fy="120.72294"
+       r="51.748573"
+       gradientTransform="matrix(1,0,0,1.0134186,0,-1.6199367)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="387.26568"
+     inkscape:cy="368.64405"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:showpageshadow="true"
+     showborder="true"
+     units="mm"
+     inkscape:window-width="1313"
+     inkscape:window-height="908"
+     inkscape:window-x="226"
+     inkscape:window-y="104"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Fond">
+    <rect
+       style="fill:url(#linearGradient3829);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3053"
+       width="525.71429"
+       height="346.42856"
+       x="0"
+       y="-0.19123225" />
+    <path
+       sodipodi:type="star"
+       style="fill:url(#radialGradient3837);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3045"
+       sodipodi:sides="5"
+       sodipodi:cx="380"
+       sodipodi:cy="78.380196"
+       sodipodi:r1="29.450754"
+       sodipodi:r2="14.725378"
+       sodipodi:arg1="2.2531129"
+       sodipodi:arg2="2.8814314"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 361.42857,101.23734 4.34158,-19.069241 -13.24747,-14.387136 19.47755,-1.76363 9.58928,-17.044966 7.6962,17.979256 19.17398,3.852768 -14.72103,12.875421 2.26089,19.426108 -16.7943,-10.021809 z"
+       inkscape:transform-center-x="-2.2892546"
+       inkscape:transform-center-y="0.5446527"
+       transform="matrix(0.94922145,0.3146087,-0.3146087,0.94922145,88.240654,-116.99985)" />
+    <path
+       sodipodi:type="star"
+       style="fill:url(#radialGradient3869);fill-opacity:1.0;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3047"
+       sodipodi:sides="5"
+       sodipodi:cx="407.14285"
+       sodipodi:cy="122.66591"
+       sodipodi:r1="54.976803"
+       sodipodi:r2="27.488403"
+       sodipodi:arg1="1.1420183"
+       sodipodi:arg2="1.7703368"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 430,172.66591 -28.30587,-23.05703 -35.04086,10.24631 13.18155,-34.04549 -20.57305,-30.159549 36.45251,2.015757 22.32602,-28.885939 9.34734,35.291301 34.37128,12.30705 -30.67553,19.79547 z"
+       inkscape:transform-center-x="-3.3674959"
+       inkscape:transform-center-y="-1.9429706"
+       transform="translate(63.999999,31.999999)" />
+    <path
+       sodipodi:type="star"
+       style="fill:url(#radialGradient3853);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3049"
+       sodipodi:sides="5"
+       sodipodi:cx="434.28571"
+       sodipodi:cy="215.52306"
+       sodipodi:r1="89.545334"
+       sodipodi:r2="44.772671"
+       sodipodi:arg1="0.97836897"
+       sodipodi:arg2="1.6066875"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 484.2857,289.80877 -51.60659,-29.54188 -53.59247,25.76454 12.14868,-58.20973 -41.06451,-43.00779 59.11489,-6.43371 28.2132,-52.34481 24.38634,54.23348 58.50122,10.65691 -44.0433,39.95185 z"
+       inkscape:transform-center-x="-4.2596624"
+       inkscape:transform-center-y="-4.3977156"
+       transform="matrix(0.99296783,0.11838451,-0.11838451,0.99296783,-12.860009,-4.1828193)" />
+  </g>
+  <g
+     inkscape:label="Texte"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26769)">
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="24.285715"
+       y="356.64789"
+       id="text2987"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2989"
+         x="24.285715"
+         y="356.64789"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold">Club Astronomie </tspan><tspan
+         sodipodi:role="line"
+         x="24.285715"
+         y="416.64789"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+         id="tspan2991">Foyer Rural de</tspan><tspan
+         sodipodi:role="line"
+         x="24.285715"
+         y="476.64789"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+         id="tspan2993">Quint-Fonsegrives</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3135"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(-6,310.26769)"><flowRegion
+         id="flowRegion3137"><rect
+           id="rect3139"
+           width="498.14285"
+           height="634.42859"
+           x="27.142857"
+           y="178.3802" /></flowRegion><flowPara
+         id="flowPara3141"
+         style="font-size:12px;text-align:justify;text-anchor:start">Comment fonctionne le système solaire ?</flowPara><flowPara
+         id="flowPara3143"
+         style="font-size:12px;text-align:justify;text-anchor:start">Peut-on observer d'autres galaxies ?</flowPara><flowPara
+         id="flowPara3145"
+         style="font-size:12px;text-align:justify;text-anchor:start">Comment brillent les étoiles ?</flowPara><flowPara
+         id="flowPara3147"
+         style="font-size:12px;text-align:justify;text-anchor:start">A quoi servent les satellites ?</flowPara><flowPara
+         id="flowPara3149"
+         style="font-size:12px;text-align:justify;text-anchor:start">Comment nos ancêtres voyaient-ils les étoiles ?</flowPara><flowPara
+         id="flowPara3151"
+         style="font-size:12px;text-align:justify;text-anchor:start">Comment fonctionne un télescope ?</flowPara><flowPara
+         id="flowPara3153"
+         style="font-size:12px;text-align:justify;text-anchor:start">Comment prendre des photos de nébuleuses ?</flowPara><flowPara
+         id="flowPara3155"
+         style="font-size:12px;text-align:justify;text-anchor:start">Qu'est-ce qu'un astéroïde ?</flowPara><flowPara
+         id="flowPara3157"
+         style="font-size:12px;text-align:justify;text-anchor:start" /><flowPara
+         id="flowPara3159"
+         style="font-size:12px;text-align:justify;text-anchor:start">Autant de questions que d'étoiles dans le ciel ?</flowPara><flowPara
+         id="flowPara3161"
+         style="font-size:12px;text-align:justify;text-anchor:start" /><flowPara
+         id="flowPara3173"
+         style="font-size:12px;text-align:justify;text-anchor:start">Si vous aussi vous vous posez des questions sur l'univers, l'espace et les objets célestes, joignez-vous à nous! Que vous soyez néophyte, débutant ou astronome chevronné rejoignez notre équipe. Dans une ambiance décontactée venez partager le savoir astronomique par le biais de formations, d'exposés thématiques ou du suivi de l'actualité. Construisez avec nous le premier télescope du club. Venez observer avec nous avec votre instrument ou en utilisant les instruments mis à notre disposition à Bélesta en Lauragais par l'association Adagio.</flowPara><flowPara
+         id="flowPara3175"
+         style="font-size:12px;text-align:justify;text-anchor:start" /><flowPara
+         id="flowPara3177"
+         style="font-size:12px;text-align:justify;text-anchor:start">N'attendez plus, contactez nous!</flowPara><flowPara
+         style="font-size:12px;text-align:justify;text-anchor:start"
+         id="flowPara3226" /><flowPara
+         id="flowPara3179"
+         style="font-size:12px;font-weight:bold;text-align:justify;text-anchor:start">Responsables: </flowPara><flowPara
+         id="flowPara3181"
+         style="font-size:12px;text-align:justify;text-anchor:start">Frédéric Pailler - 06 01 74 27 85. fred.pailler@laposte.net</flowPara><flowPara
+         id="flowPara3183"
+         style="font-size:12px;text-align:justify;text-anchor:start">Jean-Christophe Lachurié - 05 61 27 88 83. </flowPara><flowPara
+         id="flowPara3185"
+         style="font-size:12px;text-align:justify;text-anchor:start">Jean-Christophe Arnu - 06 52 25 22 22. jcarnu@gmail.com</flowPara><flowPara
+         id="flowPara3187"
+         style="font-size:12px;font-weight:bold;text-align:justify;text-anchor:start">Réunions :</flowPara><flowPara
+         style="font-size:12px;font-weight:normal;text-align:justify;text-anchor:start"
+         id="flowPara3028">2 soirées par mois près le la nouvelle lune, observation si beau temps sinon soirée en salle, soirées dédiées à la construction du télescope, préparation d'événements (soirée &quot;Astronomie pour tous&quot;), tout le calendrier sur le site web!</flowPara><flowPara
+         id="flowPara3189"
+         style="font-size:12px;font-weight:bold;text-align:justify;text-anchor:start">Animateurs : </flowPara><flowPara
+         id="flowPara3199"
+         style="font-size:12px;text-align:justify;text-anchor:start">Jean-Marie Fehrenbach et Michel Bonnet</flowPara><flowPara
+         style="font-size:12px;text-align:justify;text-anchor:start"
+         id="flowPara3230" /><flowPara
+         style="font-size:12px;font-weight:bold;text-align:justify;text-anchor:start"
+         id="flowPara3228">Site Web : </flowPara><flowPara
+         style="font-size:12px;text-align:justify;text-anchor:start"
+         id="flowPara3232">http://qf.astro.free.fr</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="209.57143"
+       y="1046.7908"
+       id="text3030"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3032"
+         x="209.57143"
+         y="1046.7908">Cette affichette est imprimée par nos soins, ne pas jeter sur la voie publique.</tspan></text>
+  </g>
+</svg>
