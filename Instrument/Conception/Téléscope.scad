@@ -67,6 +67,7 @@ module araignee(ar_pos){
 // transparent
 // Exemple : 
 // %tube();
+module telescope(){
 ReceptacleMiroir();
 miroir();
 %tube(hauteur_araignee-50);
@@ -77,3 +78,6 @@ translate([dst,-dst,-hauteur_telescope/2-52]) vis_support_mirror();
 translate([-dst,dst,-hauteur_telescope/2-52]) vis_support_mirror();
 araignee(hauteur_araignee);
 miroir_secondaire(hauteur_araignee-50);
+}
+
+telescope();
